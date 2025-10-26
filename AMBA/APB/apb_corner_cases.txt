@@ -1,1 +1,0 @@
-Q. During a Write transfer in APB
